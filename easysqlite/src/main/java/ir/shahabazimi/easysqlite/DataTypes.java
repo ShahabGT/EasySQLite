@@ -1,0 +1,52 @@
+package ir.shahabazimi.easysqlite;
+
+public class DataTypes {
+    final public static String BIGINT="BIGINT";
+    final public static String BINARY="BINARY";
+    final public static String BLOB="BLOB";
+    final public static String BLOB_TEXT="BLOB_TEXT";
+    final public static String BOOL="BOOL";
+    final public static String BOOLEAN="BOOLEAN";
+    final public static String CHAR="CHAR";
+    final public static String CLOB="CLOB";
+    final public static String CURRENCY="CURRENCY";
+    final public static String DATE="DATE";
+    final public static String DATETEXT="DATETEXT";
+    final public static String DATETIME="DATETIME";
+    final public static String DEC="DEC";
+    final public static String DECIMAL="DECIMAL";
+    final public static String DOUBLE="DOUBLE";
+    final public static String DOUBLE_PRECISION="DOUBLE PRECISION";
+    final public static String FLOAT="FLOAT";
+    final public static String GRAPHIC="GRAPHIC";
+    final public static String GUID="GUID";
+    final public static String IMAGE="IMAGE";
+    final public static String INT="INT";
+    final public static String INT64="INT64";
+    final public static String INTEGER="INTEGER";
+    final public static String LARGEINT="LARGEINT";
+    final public static String MEMO="MEMO";
+    final public static String MONEY="MONEY";
+    final public static String NCHAR="NCHAR";
+    final public static String NTEXT="NTEXT";
+    final public static String NUMBER="NUMBER";
+    final public static String NUMERIC="NUMERIC";
+    final public static String NVARCHAR="NVARCHAR";
+    final public static String NVARCHAR2="NVARCHAR2";
+    final public static String PHOTO="PHOTO";
+    final public static String PICTURE="PICTURE";
+    final public static String RAW="RAW";
+    final public static String REAL="REAL";
+    final public static String SMALLINT="SMALLINT";
+    final public static String SMALLMONEY="SMALLMONEY";
+    final public static String TEXT="TEXT";
+    final public static String TIME="TIME";
+    final public static String TIMESTAMP="TIMESTAMP";
+    final public static String TINYINT="TINYINT";
+    final public static String UNIQUEIDENTIFIER="UNIQUEIDENTIFIER";
+    final public static String VARBINARY="VARBINARY";
+    final public static String VARCHAR="VARCHAR";
+    final public static String VARCHAR2="VARCHAR2";
+    final public static String WORD="WORD";
+
+}
