@@ -33,7 +33,7 @@ Step 2. Add the dependency<br>
 Add it in your dependencies section of build.gradle (app level):
 ```
 	dependencies {
-	        implementation 'com.github.ShahabGT:EasySQLite:0.1.0'
+	        implementation 'com.github.ShahabGT:EasySQLite:1.0.0'
 	}
 ```
 # Create a New Database
