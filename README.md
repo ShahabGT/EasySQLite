@@ -5,17 +5,17 @@
 EasySQLite is an android library SQLite database. It is very simple and easy to use for your database needs in an android project. 
 
 # Table of Contents
-  1. [Gradle Dependency](https://github.com/ShahabGT/EasySQLite#gradle-dependency)
-    2. [Create a New Database](https://github.com/ShahabGT/EasySQLite#create-a-new-database)
-	 3. [Create a New Table](https://github.com/ShahabGT/EasySQLite#create-a-new-table)
-	  4. [Insert Command](https://github.com/ShahabGT/EasySQLite#insert-command)
-	   5. [Update Command](https://github.com/ShahabGT/EasySQLite#update-command)
-	    6. [Clear a Table](https://github.com/ShahabGT/EasySQLite#clear-a-table)
-		 7. [Delete Command](https://github.com/ShahabGT/EasySQLite#delete-command)
-		  8. [Select Command](https://github.com/ShahabGT/EasySQLite#select-command)
-		   9. [SQL Command](https://github.com/ShahabGT/EasySQLite#sql-command)
-		    10. [Developed By](https://github.com/ShahabGT/EasySQLite#developed-by)
-			 11. [License](https://github.com/ShahabGT/EasySQLite#license)
+  1. [Gradle Dependency](https://github.com/ShahabGT/EasySQLite#gradle-dependency)<br>
+    2. [Create a New Database](https://github.com/ShahabGT/EasySQLite#create-a-new-database)<br>
+	 3. [Create a New Table](https://github.com/ShahabGT/EasySQLite#create-a-new-table)<br>
+	  4. [Insert Command](https://github.com/ShahabGT/EasySQLite#insert-command)<br>
+	   5. [Update Command](https://github.com/ShahabGT/EasySQLite#update-command)<br>
+	    6. [Clear a Table](https://github.com/ShahabGT/EasySQLite#clear-a-table)<br>
+		 7. [Delete Command](https://github.com/ShahabGT/EasySQLite#delete-command)<br>
+		  8. [Select Command](https://github.com/ShahabGT/EasySQLite#select-command)<br>
+		   9. [SQL Command](https://github.com/ShahabGT/EasySQLite#sql-command)<br>
+		    10. [Developed By](https://github.com/ShahabGT/EasySQLite#developed-by)<br>
+			 11. [License](https://github.com/ShahabGT/EasySQLite#license)<br>
 
 
 # Gradle Dependency
